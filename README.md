@@ -1,12 +1,13 @@
 - 👋 Hi, I’m @Izaz ahamed
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning flutter 
+- 🌱 I’m currently learning Node JS
 - 💞️ I’m looking to collaborate on flutter projects
 - 📫 How to reach me - izazahamedpro2017@gmail.com
 
 Technical skills
-- Flutter(GetX)
-- Socket.io(basics)
+- Flutter
+- Socket.io
+- Node JS
 
 <!---
 Izazv3/Izazv3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
