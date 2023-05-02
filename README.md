@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Izaz ahamed
-- 👀 I’m interested in software development
+- 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Node JS
-- 💞️ I’m looking to collaborate on flutter projects
-- 📫 How to reach me - izazahamedpro2017@gmail.com
+- 💞️ I’m looking to collaborate on Flutter projects
+- 📫 How to reach me - izazahamed0508@gmail.com
 
 Technical skills
 - Flutter
