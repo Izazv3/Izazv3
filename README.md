@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Next js<br><br>💬 Ask me about flutter<br><br>📫 How to reach me izazahamed0508@gmail.com
+🌱 I’m currently learning Java<br><br>💬 Ask me about flutter<br><br>📫 How to reach me izazahamed0508@gmail.com
 
 
 ## 🌐 Socials:
